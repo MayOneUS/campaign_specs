@@ -1,4 +1,4 @@
-MAYDAY.US Campaign Specs
+# MAYDAY.US Campaign Specs
 
 1. Responsive Content
 2. Key Creative Assets
@@ -11,11 +11,11 @@ MAYDAY.US Campaign Specs
 
 These guidelines are intended to provided details guidance for the development of creative assets for MAYDAY campaigns. In the real life of campaign work, our timelines may not allow detailed consideration of all the specifications outlined below. Still, please keep in mind our desire to create responsive content while limiting the time required for front-end development work.
 
-Responsive Content
+## Responsive Content
 
 We do our best to ensure that our online presence is responsive. Our audience tends to be more tech savvy than most, and as such our audience browser windows tend to be mobile devices or very large screens. Approximately 29% of users are under 768px wide while 50% are more than 1344px wide.
 
-Key Creative Assets
+## Key Creative Assets
 
 While some activities may only require a homepage, any new campaign or promotional content should ideally include the following creative assets:
 
@@ -34,7 +34,7 @@ Globally, our website uses Bootstrap's grid and break points as follows. While s
 | 992px - 1200px | 970px | 992px |
 | >1200px | 1170px | 1200px |
 
-Primary Content Page
+## Primary Content Page
 
 Example page: https://mayday.us/campaigns/maydayin30/
 
@@ -50,15 +50,15 @@ In the past, we have:
 - Sliced PSDs into grid based responsive HTML - While producing custom CSS/HTML for different campaigns looks the best, it requires more tech lift and should be avoided. Please discuss w/ MAYDAY core team if this will be necessary.
 - Sliced PSDs into Full Width responsive HTML: Grid system be damned! This also requires a bit of tech lift. Again, Please discuss w/ MAYDAY core team if this will be necessary for new creative content. Note: MAYDAY header and footer still required.
 
-Homepage banner
+## Homepage banner
 
-Example: [link to github of blackboard in layout]
+[Example here](https://github.com/MayOneUS/campaign_specs/blob/master/MAYDAY_simple_homepage_non_bleed_example.png).
 
-The homepage banner is the trickiest part. Typically, any graphic content is accompanied by a headline and copy that is floated right with a width of appx 40%. We put together two simplified examples of the homepage banner - one bleed, one non-bleed. You can view on github here: [link to github repo]
+The homepage banner is the trickiest part. Typically, any graphic content is accompanied by a headline and copy that is floated right with a width of appx 40%. We put together two simplified examples of the homepage banner - one bleed, one non-bleed. You can view in this repo.
 
 Note: In these examples, graphic elements can exist outside the safe zones, but on the bleed graphic, the BG should be quite plain as text is overlayed on it.
 
-Full Details:
+**Full Details**:
 
 | **Browser Size** | **Homepage Safezone w/ Copy** | **Homepage Safe Zone (no copy)** | **Homepage Full Width** |
 | --- | --- | --- | --- |
@@ -69,7 +69,7 @@ Full Details:
 
 \* Infinity! Realistically: 1920px wide is the sweet spot.
 
-Promotional Images for Social Media
+## Promotional Images for Social Media
 
 If time and resources allow, relevant image for social media sharing are helpful. General requirements:
 
@@ -80,21 +80,21 @@ If time and resources allow, relevant image for social media sharing are helpful
 
 The images can be web optimized jpg, png or gif.
 
-MAYDAY.US Styling Guidelines
+## MAYDAY.US Styling Guidelines
 
 New content need strictly conform to existing design guidelines, but if you can complement the existing colors/fonts, please do.
 
-Colors
+### Colors
 
 - MAYDAY red: #cc3333
 - MAYDAY background: #f9fbfc
 - MAYDAY Blue: #15405e
 
-Fonts
+### Fonts
 
-All our fonts are from Google Fonts. You can find this in this repo, or download them from their sources below: [link to github]
+All our fonts are from Google Fonts. You can find this in this repo, or download them from their sources below:
 
-- Body Copy: Merriweather (Download)
-- Headlines: "Roboto" or "Roboto Condensed" (Download)
+- Body Copy: Merriweather ([Download](http://www.fontsquirrel.com/fonts/merriweather))
+- Headlines: "Roboto" or "Roboto Condensed" ([Download](http://www.fontsquirrel.com/fonts/roboto))
 - Headlines (phasing out): Questrial
-- Iconography: font-awesome
+- Iconography: [font-awesome](http://fortawesome.github.io/Font-Awesome/)
