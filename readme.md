@@ -15,7 +15,7 @@ These guidelines are intended to provided details guidance for the development o
 
 We do our best to ensure that our online presence is responsive. Our audience tends to be more tech savvy than most, and as such our audience browser windows tend to be mobile devices or very large screens. Approximately 29% of users are under 768px wide while 50% are more than 1344px wide.
 
-## Key Creative Assets
+## Key Campaign Executions
 
 While some activities may only require a homepage, any new campaign or promotional content should ideally include the following creative assets:
 
@@ -40,7 +40,7 @@ Example page: https://mayday.us/campaigns/maydayin30/
 
 Basic Requirements:
 
-- While we have maxium flexibility here, all content pages will need the standard MAYDAY.US header and footer.
+- While we have maximum flexibility here, all content pages will need the standard MAYDAY.US header and footer.
 - Depending on the action, the menu items in the MAYDAY header may be removed to focus users attention on any in-page "Call to Action" items.
 - All images should be web-optimized
 
