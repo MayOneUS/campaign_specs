@@ -1,4 +1,6 @@
-# MAYDAY.US Campaign Specs
+# Out of date Campaign Specs
+
+## this document is presently out of date.  Ignore.
 
 1. Responsive Content
 2. Key Creative Assets
