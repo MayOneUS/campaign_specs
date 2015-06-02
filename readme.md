@@ -1,4 +1,6 @@
-# MAYDAY.US Campaign Specs
+# Out of date Campaign Specs
+
+## this document is presently out of date.  Ignore.
 
 1. Responsive Content
 2. Key Creative Assets
@@ -36,7 +38,10 @@ Globally, our website uses Bootstrap's grid and break points as follows. While s
 
 ## Primary Content Page
 
-Example page: https://mayday.us/campaigns/maydayin30/
+Example pages: 
+
+* https://mayday.us/campaigns/maydayin30/ - html
+* https://mayday.us/campaigns/of-course-brown-is-a-lobbyist/ - landing page
 
 Basic Requirements:
 
@@ -46,9 +51,9 @@ Basic Requirements:
 
 In the past, we have:
 
-- Used an Image only - If font sizes is large enough, one image may be used and scaled down from 1170px wide down to 750px wide. (See: bootstrap constraints above) If font sizes are too small when the image is scaled down to 750px, we've created multiple images for each breakpoint in our grid system - 750px W, 970px W and 1170 px wide.
-- Sliced PSDs into grid based responsive HTML - While producing custom CSS/HTML for different campaigns looks the best, it requires more tech lift and should be avoided. Please discuss w/ MAYDAY core team if this will be necessary.
-- Sliced PSDs into Full Width responsive HTML: Grid system be damned! This also requires a bit of tech lift. Again, Please discuss w/ MAYDAY core team if this will be necessary for new creative content. Note: MAYDAY header and footer still required.
+- **Used an Image only** - If font sizes is large enough, one image may be used and scaled down from 1170px wide down to 750px wide. (See: bootstrap constraints above) If font sizes are too small when the image is scaled down to 750px, we've created multiple images for each breakpoint in our grid system - 750px W, 970px W and 1170 px wide.
+- **Sliced PSDs into grid based responsive HTML** - While producing custom CSS/HTML for different campaigns looks the best, it requires more tech lift and should be avoided. Please discuss w/ MAYDAY core team if this will be necessary.
+- **Sliced PSDs into Full Width responsive HTML**: Grid system be damned! This also requires a bit of tech lift. Again, Please discuss w/ MAYDAY core team if this will be necessary for new creative content. Note: MAYDAY header and footer still required.
 
 ## Homepage banner
 
